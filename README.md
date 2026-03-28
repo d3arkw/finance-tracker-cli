@@ -49,7 +49,7 @@ Countries and Currencies
 - China – CNY
 
 Author
-- d3arkw / GitHub: https://github.com/yourusername
+- d3arkw / GitHub: https://github.com/d3arkw
 
 --------------------------------------
 
@@ -104,4 +104,4 @@ Author
 - Китай – CNY
 
 Автор
-- d3arkw / GitHub: https://github.com/yourusername
+- d3arkw / GitHub: https://github.com/d3arkw
